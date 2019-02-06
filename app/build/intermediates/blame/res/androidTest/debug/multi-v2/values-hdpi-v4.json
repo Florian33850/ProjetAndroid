@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/autofs/unityaccount/cremi/pdevaux001/projetTechFinal/ProjetAndroid/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/tmp/android-pdevaux001/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/bbff6c826e2f0df36d0f5d425eb115b0/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

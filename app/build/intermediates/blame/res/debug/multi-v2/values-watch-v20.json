@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/autofs/unityaccount/cremi/pdevaux001/projetTechFinal/ProjetAndroid/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/tmp/android-pdevaux001/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/bbff6c826e2f0df36d0f5d425eb115b0/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

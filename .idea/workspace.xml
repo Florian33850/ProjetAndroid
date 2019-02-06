@@ -10,20 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5639c75e-347e-4e5a-9300-2893cc9d1d1a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="/autofs/unityaccount/cremi/pdevaux001/projetTechFinal/ProjetAndroid/ProjetAndroid.iml" />
-      <change type="NEW" beforePath="" afterPath="/autofs/unityaccount/cremi/pdevaux001/projetTechFinal/ProjetAndroid/app/app.iml" />
-      <change type="DELETED" beforePath="/autofs/unityaccount/cremi/pdevaux001/projetTechFinal/ProjetAndroid/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="/autofs/unityaccount/cremi/pdevaux001/projetTechFinal/ProjetAndroid/Camera.java" afterPath="" />
-      <change type="DELETED" beforePath="/autofs/unityaccount/cremi/pdevaux001/projetTechFinal/ProjetAndroid/Effects.java" afterPath="" />
-      <change type="DELETED" beforePath="/autofs/unityaccount/cremi/pdevaux001/projetTechFinal/ProjetAndroid/Gallery.java" afterPath="" />
-      <change type="DELETED" beforePath="/autofs/unityaccount/cremi/pdevaux001/projetTechFinal/ProjetAndroid/Main.java" afterPath="" />
-      <change type="DELETED" beforePath="/autofs/unityaccount/cremi/pdevaux001/projetTechFinal/ProjetAndroid/Tutorial.java" afterPath="" />
-      <change type="DELETED" beforePath="/autofs/unityaccount/cremi/pdevaux001/projetTechFinal/ProjetAndroid/camera.xml" afterPath="" />
-      <change type="DELETED" beforePath="/autofs/unityaccount/cremi/pdevaux001/projetTechFinal/ProjetAndroid/effects.xml" afterPath="" />
-      <change type="DELETED" beforePath="/autofs/unityaccount/cremi/pdevaux001/projetTechFinal/ProjetAndroid/gallery.xml" afterPath="" />
-      <change type="DELETED" beforePath="/autofs/unityaccount/cremi/pdevaux001/projetTechFinal/ProjetAndroid/main_layout.xml" afterPath="" />
-      <change type="DELETED" beforePath="/autofs/unityaccount/cremi/pdevaux001/projetTechFinal/ProjetAndroid/tutorial.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="/autofs/unityaccount/cremi/pdevaux001/projetTechFinal/ProjetAndroid/app/src/main/AndroidManifest.xml" afterPath="/autofs/unityaccount/cremi/pdevaux001/projetTechFinal/ProjetAndroid/app/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="/autofs/unityaccount/cremi/pdevaux001/projetTechFinal/ProjetAndroid/.idea/vcs.xml" afterPath="/autofs/unityaccount/cremi/pdevaux001/projetTechFinal/ProjetAndroid/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="/autofs/unityaccount/cremi/pdevaux001/projetTechFinal/ProjetAndroid/.idea/workspace.xml" afterPath="/autofs/unityaccount/cremi/pdevaux001/projetTechFinal/ProjetAndroid/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="/autofs/unityaccount/cremi/pdevaux001/projetTechFinal/ProjetAndroid/ProjetAndroid.iml" afterPath="/autofs/unityaccount/cremi/pdevaux001/projetTechFinal/ProjetAndroid/ProjetAndroid.iml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -96,8 +85,8 @@
       <file leaf-file-name="Gallery.java" pinned="false" current-in-tab="true">
         <entry file="file:///autofs/unityaccount/cremi/pdevaux001/projetTechFinal/ProjetAndroid/app/src/main/java/com/example/acoste/projetimage/Gallery.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="170">
+              <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -1883,105 +1872,14 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidBuildScriptsGroupNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ProjetAndroid" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ProjetAndroid" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="layout" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ProjetAndroid" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="renderscript" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ProjetAndroid" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ProjetAndroid" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="projetimage" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ProjetAndroid" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="manifests" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidManifestsGroupNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/ProjetFinal/ProjetAndroid" />
     <property name="device.picker.selection" value="T816A1ZH7B281295" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -2066,7 +1964,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1549447152798" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1549449271264" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -2114,7 +2012,7 @@
       </Profilers>
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1549447152798" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1549449271264" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -2297,7 +2195,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1549447152799" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1549449271265" />
       </method>
     </configuration>
     <list size="1">
@@ -2337,7 +2235,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1917" y="0" width="1926" height="1203" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -2463,8 +2360,8 @@
     </entry>
     <entry file="file:///autofs/unityaccount/cremi/pdevaux001/projetTechFinal/ProjetAndroid/app/src/main/java/com/example/acoste/projetimage/Gallery.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state relative-caret-position="170">
+          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
           <folding />
         </state>
       </provider>
